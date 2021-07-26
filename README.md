@@ -1,0 +1,1 @@
+# astrominor.github.io
