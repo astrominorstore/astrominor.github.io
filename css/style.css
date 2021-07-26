@@ -38,15 +38,15 @@ img {
 
 body {
 	background: #fff;
-	color: #666666;
+	color: #FFFFFF;
 	font-family: 'Roboto', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-size-adjust: 100%;
 }
 
 section { overflow: hidden; }
-::selection { background: #161a1b; color: #fff; }
-::-moz-selection { background: #161a1b; color: #fff; }
+::selection { background: #FFFFFF; color: #fff; }
+::-moz-selection { background: #FFFFFF; color: #fff; }
 
 
 /* =Typography
